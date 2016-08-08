@@ -27,6 +27,4 @@ To run the project, clone the repo, and run `pod install` from the MonTransit di
 Thibault Bavard, thibault.bavard@gmail.com
 
 ## License
-
-MonTransit-for-ios is available under the Apache 2.0 license. See the LICENSE file for more info.
-* [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+ Contact me for more information
